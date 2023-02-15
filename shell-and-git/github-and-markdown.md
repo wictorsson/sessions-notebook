@@ -1,4 +1,3 @@
-# Github and markdown
 
 Markdown file suffix - md
 Use space between hashtags and text for the headings
